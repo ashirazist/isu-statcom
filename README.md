@@ -1,9 +1,7 @@
-# Talks
-Talks at the graphics working group
+# STATCOM @ Iowa State University, Department of Statistics
 
-- *19 Nov 2020*  
-**Presenter**: Wangqian Ju  
-**Title**: `bulletinvestigator` - an extensible and interactive tool for bulletxtrctr users  
-**Abstract**:
-The R package bulletxtrctr provides many methods for analyzing bullet striations. And sometimes the results of these automated methods need some manual adjustments in order to be used in further analysis. To facilitate this process of manual adjustment and provide more insights into the data, we developed this interactive tool using Shiny. We also utilized Shiny Modules during the development of our app, which enables other developers to collaboratively extend the functionality of this app.  
+STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good.
 
+STATCOM was founded at Purdue, and other chapters exist throughout the U.S.
+
+Note: STATCOM cannot provide consulting for other ISU departments or graduate students. Please refer to the Statistical Consulting at the Department of Statistics
