@@ -1,0 +1,13 @@
+---
+title: Ericson Library Community Survey
+author: STATCOM
+date: '2013-11-12'
+slug: ames-public-lirbary-strategic-survey-2020
+categories: ["Projects"]
+tags: ["text analysis", "survey analysis", "visualization"]
+description: ''
+---
+
+The 2018 Ericson Library community survey was administered between June and August of 2018 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were 290 responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data. 
+
+As will be discussed in more detail below, in this survey, multiple age categories could be marked off in order to get more information about the preferences being represented in the survey. More than half of responses indicated the 60+ age group, so their results drive the rest of the survey. The most dissimilar group is the under age 11 group, so I provide them as a contrast to the overall results. However, they are not very different, in part because all the programs are broadly popular and possibly because adults were filling the surveys out and represented their own interests as well. 
