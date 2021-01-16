@@ -1,4 +1,5 @@
-# STATCOM @ Iowa State University, Department of Statistics
+# STATCOM @ Iowa State University
+## Department of Statistics
 
 STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good.
 
