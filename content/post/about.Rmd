@@ -1,14 +1,12 @@
 ---
-title: About
-author: Amin Shirazi
-date: '2021-01-15'
+title: About STATCOM @ ISU
+author: 
+date: '2005-10-28'
 slug: about
 categories: []
 tags: []
 description: ''
 ---
-
-## About STATCOM
 
 STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good. 
 

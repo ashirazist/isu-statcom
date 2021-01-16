@@ -41,13 +41,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [[menu.navbar]]
   name = "About"
-  url = "/about/"
+  url = "/2005/10/about-statcom-isu/"
 [[menu.navbar]]
   name = "Projects"
-  url = "/projects/"
+  url = "/2007/10/projects/"
 [[menu.navbar]]
   name = "Officers"
-  url = "/officers/"  
+  url = "/2006/10/officers/"  
 [[menu.navbar]]
   name = "Contact Us"
   url = ""
